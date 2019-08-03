@@ -1,3 +1,7 @@
 # Unity2048Learning
 
-Learning Unity, created 2048 copy game, based on different turotials from the Web. Fully functional.
+First time learning Unity3D  
+
+-- fully recreated 2048 mobile game  
+-- my clone has all the same functionality in terms of movements as well as score system  
+--
